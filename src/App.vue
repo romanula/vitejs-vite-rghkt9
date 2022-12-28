@@ -53,11 +53,9 @@ export default {
   mounted() {
     console.log('mounted');
     this.startChecking();
-    let self = this;
-    self.nowplaying_arr = jsn.nowplaying;
+    this.nowplaying_arr = jsn.nowplaying;
   },
 };
-let x = $('.song');
 let jsn = {
   nowplaying: [
     {
