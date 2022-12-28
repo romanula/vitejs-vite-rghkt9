@@ -39,7 +39,6 @@ export default {
     startChecking() {
       setInterval(() => {
         console.log('------updating------');
-        this.nowplaying_arr = jsn.nowplaying;
         $.getJSON('onair.json', (data) => {
           this.nowplaying_arr = data.nowplaying;
         });
