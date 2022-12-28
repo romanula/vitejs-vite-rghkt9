@@ -1,0 +1,251 @@
+{
+    "nowplaying": [
+        {
+            "artist": "Jason Derulo",
+            "duration": "00:03:12",
+            "iTunesTrackUrl": "https://music.apple.com/gb/album/love-not-war-the-tampa-beat/1540095737?i=1540095739&uo=4",
+            "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2a/ad/90/2aad902b-eb7b-de5f-72e0-dab04560de39/886448888918.jpg/450x450bb.jpg",
+            "previewUrl": "",
+            "status": "playing",
+            "time": "2022-12-27T08:03:14Z",
+            "title": "Love Not War (The Tampa Beat)"
+        },
+        {
+            "artist": "Jonasu",
+            "duration": "00:02:30",
+            "iTunesTrackUrl": "https://music.apple.com/gb/album/black-magic/1543302923?i=1543302924&uo=4",
+            "imageUrl": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/23/81/27/238127f9-bec3-639a-6f8a-efce1192850e/20UM1IM07632.rgb.jpg/450x450bb.jpg",
+            "previewUrl": "",
+            "status": "history",
+            "time": "2022-12-27T07:56:04Z",
+            "title": "Black Magic"
+        },
+        {
+            "artist": "Milky",
+            "duration": "00:03:31",
+            "iTunesTrackUrl": "https://itunes.apple.com/gb/album/just-the-way-you-are-album-version/id383390135?i=383390552&uo=4",
+            "imageUrl": "http://is1.mzstatic.com/image/thumb/Music/v4/70/ee/28/70ee289b-be27-7c3f-a330-3487846610e2/source/450x450bb.jpg",
+            "previewUrl": "",
+            "status": "history",
+            "time": "2022-12-27T07:52:34Z",
+            "title": "Just the Way You Are"
+        },
+        {
+            "artist": "Robin S",
+            "duration": "00:04:11",
+            "iTunesTrackUrl": "https://itunes.apple.com/gb/album/show-me-love-stonebridge-club-mix/id1057973278?i=1057973625&uo=4",
+            "imageUrl": "http://is2.mzstatic.com/image/thumb/Music22/v4/6f/34/90/6f34902f-3b5c-3376-4240-d922dbe409d1/source/450x450bb.jpg",
+            "previewUrl": "",
+            "status": "history",
+            "time": "2022-12-27T07:48:11Z",
+            "title": "Show Me Love"
+        },
+        {
+            "artist": "Katy Perry",
+            "duration": "00:03:47",
+            "iTunesTrackUrl": "https://itunes.apple.com/gb/album/teenage-dream/id716601749?i=716601965&uo=4",
+            "imageUrl": "http://is1.mzstatic.com/image/thumb/Music/v4/e1/3c/66/e13c6608-38fc-9c01-c8ef-ee7639303074/source/450x450bb.jpg",
+            "previewUrl": "",
+            "status": "history",
+            "time": "2022-12-27T07:44:27Z",
+            "title": "Teenage Dream"
+        },
+        {
+            "artist": "Phillip George & Anton Powers",
+            "duration": "00:02:51",
+            "iTunesTrackUrl": "https://music.apple.com/gb/album/alone-no-more-kenny-hayes-nitelite-mix/1452849988?i=1452849998&uo=4",
+            "imageUrl": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/fa/5e/5a/fa5e5a42-d2b6-08e3-0e90-cf84a5aab3ce/05037128006855.rgb.jpg/450x450bb.jpg",
+            "previewUrl": "",
+            "status": "history",
+            "time": "2022-12-27T07:41:35Z",
+            "title": "Alone No More"
+        },
+        {
+            "artist": "Beyonce",
+            "duration": "00:04:24",
+            "iTunesTrackUrl": "https://music.apple.com/gb/album/break-my-soul/1630005298?i=1630005854&uo=4",
+            "imageUrl": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/05/05/f3/0505f338-9873-feb4-af7f-27a470405e5f/196589246974.jpg/450x450bb.jpg",
+            "previewUrl": "",
+            "status": "history",
+            "time": "2022-12-27T07:34:44Z",
+            "title": "Break My Soul"
+        },
+        {
+            "artist": "George Ezra",
+            "duration": "00:03:13",
+            "iTunesTrackUrl": "https://itunes.apple.com/gb/album/blame-it-on-me/id858633779?i=858633781&uo=4",
+            "imageUrl": "http://is3.mzstatic.com/image/thumb/Music6/v4/42/21/16/4221160b-187a-b66c-5aa9-f4516d7bc3fb/source/450x450bb.jpg",
+            "previewUrl": "",
+            "status": "history",
+            "time": "2022-12-27T07:31:32Z",
+            "title": "Blame It on Me"
+        },
+        {
+            "artist": "Garbage",
+            "duration": "00:03:56",
+            "iTunesTrackUrl": "https://itunes.apple.com/gb/album/only-happy-when-it-rains/id671853550?i=671853706&uo=4",
+            "imageUrl": "http://is4.mzstatic.com/image/thumb/Music6/v4/db/b6/5c/dbb65c30-3356-6231-efb7-03d7473ad6bb/source/450x450bb.jpg",
+            "previewUrl": "",
+            "status": "history",
+            "time": "2022-12-27T07:27:49Z",
+            "title": "Only Happy When It Rains"
+        },
+        {
+            "artist": "BeatFreakz",
+            "duration": "00:02:47",
+            "iTunesTrackUrl": "https://itunes.apple.com/gb/album/somebodys-watching-me/id714720345?i=714722882&uo=4",
+            "imageUrl": "http://is5.mzstatic.com/image/thumb/Music6/v4/25/85/3d/25853de4-c39a-a403-9d82-6764a950eea9/source/450x450bb.jpg",
+            "previewUrl": "",
+            "status": "history",
+            "time": "2022-12-27T07:24:38Z",
+            "title": "Somebody's Watching Me"
+        },
+        {
+            "artist": "Ed Sheeran",
+            "duration": "00:03:37",
+            "iTunesTrackUrl": "https://music.apple.com/gb/album/i-dont-care/1462426785?i=1462426786&uo=4",
+            "imageUrl": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/e0/8a/7f/e08a7fef-4a6c-69f2-16ac-90419c71a4f7/source/450x450bb.jpg",
+            "previewUrl": "",
+            "status": "history",
+            "time": "2022-12-27T07:21:01Z",
+            "title": "I Don't Care (Feat. Justin Bieber)"
+        },
+        {
+            "artist": "David Morales",
+            "duration": "00:03:32",
+            "iTunesTrackUrl": "https://itunes.apple.com/gb/album/needin-u-david-morales-club-mix/556024848?i=556025122&uo=4",
+            "imageUrl": "http://is2.mzstatic.com/image/thumb/Music/v4/eb/4c/cc/eb4ccc30-5a03-2cad-96a9-89e96b6cd670/source/450x450bb.jpg",
+            "previewUrl": "",
+            "status": "history",
+            "time": "2022-12-27T07:14:04Z",
+            "title": "Needin U"
+        },
+        {
+            "artist": "Kylie Minogue",
+            "duration": "00:03:20",
+            "iTunesTrackUrl": "https://music.apple.com/gb/album/all-the-lovers/1408860044?i=1408860635&uo=4",
+            "imageUrl": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/b4/0e/50/b40e50f8-6b9c-0d7a-13a6-fb42abc4c9ff/190295583996.jpg/450x450bb.jpg",
+            "previewUrl": "",
+            "status": "history",
+            "time": "2022-12-27T07:10:45Z",
+            "title": "All the Lovers"
+        },
+        {
+            "artist": "Kelly Clarkson",
+            "duration": "00:03:41",
+            "iTunesTrackUrl": "https://itunes.apple.com/gb/album/what-doesnt-kill-you-stronger/id465055652?i=465055655&uo=4",
+            "imageUrl": "http://is2.mzstatic.com/image/thumb/Music/v4/28/4e/34/284e3403-13b6-b1f7-f1a9-e7a45dccdeee/source/450x450bb.jpg",
+            "previewUrl": "",
+            "status": "history",
+            "time": "2022-12-27T07:06:22Z",
+            "title": "Stronger"
+        },
+        {
+            "artist": "Nathan Dawe & Ella Henderson",
+            "duration": "00:02:39",
+            "iTunesTrackUrl": "https://music.apple.com/gb/album/21-reasons-feat-ella-henderson/1616716411?i=1616716414&uo=4",
+            "imageUrl": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/1c/54/5c/1c545ce8-a16c-075b-8d53-0757046944ac/190296203107.jpg/450x450bb.jpg",
+            "previewUrl": "",
+            "status": "history",
+            "time": "2022-12-27T07:03:45Z",
+            "title": "21 Reasons"
+        },
+        {
+            "artist": "Martin Solveig",
+            "duration": "00:02:45",
+            "iTunesTrackUrl": "https://itunes.apple.com/gb/album/hello-single-edit/id405974950?i=405974997&uo=4",
+            "imageUrl": "http://is2.mzstatic.com/image/thumb/Music/v4/87/f9/f9/87f9f9a4-268d-3b21-7f03-730fb2bdd207/source/450x450bb.jpg",
+            "previewUrl": "",
+            "status": "history",
+            "time": "2022-12-27T07:01:02Z",
+            "title": "Hello"
+        },
+        {
+            "artist": "One Direction",
+            "duration": "00:03:19",
+            "iTunesTrackUrl": "https://itunes.apple.com/gb/album/what-makes-you-beautiful/id452514272?i=452514301&uo=4",
+            "imageUrl": "http://is1.mzstatic.com/image/thumb/Music/v4/33/9b/ff/339bff7c-3e9c-4929-dc61-44cfd203753d/source/450x450bb.jpg",
+            "previewUrl": "",
+            "status": "history",
+            "time": "2022-12-27T06:56:10Z",
+            "title": "What Makes You Beautiful"
+        },
+        {
+            "artist": "Beyonce",
+            "duration": "00:03:56",
+            "iTunesTrackUrl": "https://itunes.apple.com/gb/album/crazy-in-love-feat-jay-z-live/id945226709?i=945226717&uo=4",
+            "imageUrl": "http://is5.mzstatic.com/image/thumb/Music5/v4/5e/dc/aa/5edcaa69-d6c3-0e97-2297-64cd4a8f622c/source/450x450bb.jpg",
+            "previewUrl": "",
+            "status": "history",
+            "time": "2022-12-27T06:52:15Z",
+            "title": "Crazy in Love"
+        },
+        {
+            "artist": "Rui Da Silva",
+            "duration": "00:03:29",
+            "iTunesTrackUrl": "https://itunes.apple.com/gb/album/touch-me-radio-edit/id172331871?i=172331875&uo=4",
+            "imageUrl": "http://is5.mzstatic.com/image/thumb/Music/v4/b7/30/f2/b730f2a6-b534-bf21-1247-9adaf1805f20/source/450x450bb.jpg",
+            "previewUrl": "",
+            "status": "history",
+            "time": "2022-12-27T06:48:52Z",
+            "title": "Touch Me"
+        },
+        {
+            "artist": "Lewis Capaldi",
+            "duration": "00:03:02",
+            "iTunesTrackUrl": "https://itunes.apple.com/gb/album/someone-you-loved/1441539148?i=1441539154&uo=4",
+            "imageUrl": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/d4/72/db/d472db2c-bed3-8f5f-2c18-e7463adb140f/source/450x450bb.jpg",
+            "previewUrl": "",
+            "status": "history",
+            "time": "2022-12-27T06:45:53Z",
+            "title": "Someone You Loved"
+        },
+        {
+            "artist": "Anne Marie",
+            "duration": "00:03:26",
+            "iTunesTrackUrl": "https://itunes.apple.com/gb/album/alarm/id1109410070?i=1109410295&uo=4",
+            "imageUrl": "http://is1.mzstatic.com/image/thumb/Music18/v4/0e/0a/56/0e0a56bc-9aa8-2fac-a234-cebd47efa590/source/450x450bb.jpg",
+            "previewUrl": "",
+            "status": "history",
+            "time": "2022-12-27T06:42:27Z",
+            "title": "Alarm"
+        },
+        {
+            "artist": "Sonique",
+            "duration": "00:03:47",
+            "iTunesTrackUrl": "https://itunes.apple.com/gb/album/it-feels-so-good/id887733152?i=887733341&uo=4",
+            "imageUrl": "http://is5.mzstatic.com/image/thumb/Music4/v4/d2/c5/a2/d2c5a259-1692-1ff4-314a-c2f0bf9824a4/source/450x450bb.jpg",
+            "previewUrl": "",
+            "status": "history",
+            "time": "2022-12-27T06:38:29Z",
+            "title": "It Feels So Good"
+        },
+        {
+            "artist": "Joel Corry",
+            "duration": "00:03:07",
+            "status": "history",
+            "time": "2022-12-27T06:35:24Z",
+            "title": "BED (Feat. Raye & David Guetta)"
+        },
+        {
+            "artist": "Sigala",
+            "duration": "00:03:01",
+            "iTunesTrackUrl": "https://music.apple.com/gb/album/stay-the-night/1620163586?i=1620163900&uo=4",
+            "imageUrl": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/50/30/b2/5030b2da-cfa4-1422-a51b-3b7f5b958d81/196589117854.jpg/450x450bb.jpg",
+            "previewUrl": "",
+            "status": "history",
+            "time": "2022-12-27T06:30:48Z",
+            "title": "Stay the Night (Feat. Talia Mar)"
+        },
+        {
+            "artist": "No Doubt",
+            "duration": "00:03:29",
+            "iTunesTrackUrl": "https://itunes.apple.com/gb/album/just-a-girl/id14189943?i=14189945&uo=4",
+            "imageUrl": "http://is2.mzstatic.com/image/thumb/Music/v4/cb/9c/12/cb9c12fb-359b-ab32-bbed-ea9c50656f9a/source/450x450bb.jpg",
+            "previewUrl": "",
+            "status": "history",
+            "time": "2022-12-27T06:27:30Z",
+            "title": "Just a Girl"
+        }
+    ]
+}

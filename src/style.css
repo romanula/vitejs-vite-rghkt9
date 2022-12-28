@@ -1,0 +1,28 @@
+div#app {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+.song {
+  width: 200px;
+  margin: 10px;
+  border: 2px solid orange;
+  text-align: center;
+  height: 236px;
+  border-radius: 7px;
+}
+.song.playing {
+  border-color: aqua;
+}
+.song .song-title {
+  overflow: hidden;
+  white-space: nowrap;
+  display: block;
+  height: 40px;
+  text-overflow: ellipsis;
+  padding: 5px;
+}
+.song .link img {
+  height: 140px;
+}
